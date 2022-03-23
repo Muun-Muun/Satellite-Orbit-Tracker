@@ -52,12 +52,12 @@ In 3D section, you can find the yellow dot - that’s your satellite!
 
 You can set the time range in two ways.
 
-- **Seconds method:** This app shows you the ground-track of your satellite for the seconds you entered.
+- **Seconds mode:** This app shows you the ground-track of your satellite for the seconds you entered.
     
     <p align="center"><img width="525" alt="image" src="https://user-images.githubusercontent.com/52774019/159639649-fc125bc7-8c6d-4aba-880e-c3861598c045.png"></p>
     
 
-- **Cycles method**: This app shows you the ground-track of your satellite for the cycles you entered.
+- **Cycles mode**: This app shows you the ground-track of your satellite for the cycles you entered.
     
     <p align="center"><img width="525" alt="image" src="https://user-images.githubusercontent.com/52774019/159639662-0de71950-60b2-48b5-ae61-4bec4d582e14.png"></p>  
 
