@@ -20,7 +20,8 @@ This app is consists of three parts.
 
 ### TLE dta section
 
-![image](https://user-images.githubusercontent.com/52774019/159639017-5cf3f6ef-dcbc-4200-b023-1e8291f0e99d.png)
+<p align="center">![tle](https://user-images.githubusercontent.com/52774019/159639614-c307f654-3d4c-456f-a310-89441860f801.png)
+</p>
 
 First, you need to get the current TLE data of the satellite you want to track. See this site.
 
@@ -31,7 +32,8 @@ Pressing the `Upload Data` button, then it display Orbital Elements calculating 
 
 ### Orbit Plotting Section
 
-![image](https://user-images.githubusercontent.com/52774019/159638982-11c60cdf-87e5-43e9-aa99-36e153b0daaf.png)
+<p align="center">![orbit](https://user-images.githubusercontent.com/52774019/159639629-1ce998f3-ff32-4679-8b45-689616f33d35.png)
+</p>
 
 Pressing the `Plot Orbit` button at left-lower side, you can check the satellite’s orbit in 2D and 3D Graphics. 
 
@@ -43,12 +45,14 @@ You can set the time range in two ways.
 
 - **Seconds method:** This app shows you the ground-track of your satellite for the seconds you entered.
     
-    ![image](https://user-images.githubusercontent.com/52774019/159638956-16293d81-f52e-45fc-bdbf-a9ae2340f86b.png)
+    <p align="center">![gt_sec](https://user-images.githubusercontent.com/52774019/159639649-fc125bc7-8c6d-4aba-880e-c3861598c045.png)
+</p>
     
 
 - **Cycles method**: This app shows you the ground-track of your satellite for the cycles you entered.
     
-    ![image](https://user-images.githubusercontent.com/52774019/159638930-7e7b3bd5-d9f0-495e-86f0-3dc944778b2b.png)
+    <p align="center">![gt_cyc](https://user-images.githubusercontent.com/52774019/159639662-0de71950-60b2-48b5-ae61-4bec4d582e14.png)
+</p>
     
 
 
