@@ -30,7 +30,7 @@ This app is consists of three parts.
 
 First, you need to get the current TLE data of the satellite you want to track. See [this site](https://www.celestrak.com/NORAD/elements/).
 
-(If you didn’s put any datas, it will calculate using defualt values. You can see the default calues from the picture above.)
+(If you do not enter any value, it will be calculated with defualt values. You can see the default values from the picture above.)
 
 Pressing the `Upload Data` button, then it display Orbital Elements calculating from your TLE datas.  
 
