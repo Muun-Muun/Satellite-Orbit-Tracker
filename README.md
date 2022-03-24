@@ -43,7 +43,7 @@ Pressing the `Upload Data` button, then it display Orbital Elements calculating 
 
 Pressing the `Plot Orbit` button at left-lower side, you can check the satellite’s orbit in 2D and 3D Graphics. 
 
-In 3D section, you can find the yellow dot - that’s your satellite!  
+In 3D section, you can find the yellow dot - that’s your satellite🛰️!  
 
 <br/>
 <br/>
